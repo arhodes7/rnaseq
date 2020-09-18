@@ -34,3 +34,9 @@ dependencies:
   - stringtie=2.0
   - subread=1.6.4
   - trim-galore=0.6.4
+  - trinity=2.11.0
+  - skewer=0.2.2
+  - transdecoder=5.5.0
+  - hmmer=3.3.1
+  - diamond=2.0.4
+
