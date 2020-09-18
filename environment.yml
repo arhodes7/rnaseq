@@ -21,11 +21,10 @@ dependencies:
   - r-data.table=1.12.8
   - r-gplots=3.1.0
   - r-markdown=1.1
-  - python=3.7.8  #Python 3.8 has some quirks, so go lower if possible
+  - python=3.8.5  
   - pymdown-extensions=8.0
   - pygments=2.7.1
   - pigz=2.3.4
-  - 
 
   ## bioconda packages, see above
   - bioconductor-dupradar=1.18.0
