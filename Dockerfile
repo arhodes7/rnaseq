@@ -1,4 +1,4 @@
-FROM nfcore/base:1.7
+FROM nfcore/base:1.10.2
 LABEL authors="phil.ewels@scilifelab.se" \
       description="Docker image containing all requirements for the nfcore/rnaseq pipeline"
 
