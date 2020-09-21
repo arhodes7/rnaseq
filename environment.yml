@@ -39,3 +39,8 @@ dependencies:
   - bioconda::bioconductor-edger=3.30.0
   - bioconda::bioconductor-tximeta=1.6.2
   - bioconda::bioconductor-summarizedexperiment=1.18.1
+  - bioconda::trinity=2.8.5
+  - bioconda::skewer=0.2.2
+  - bioconda::transdecoder=5.5.0
+  - bioconda::hmmer=3.3.1
+  - bioconda::diamond=0.9.14
